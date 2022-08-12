@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1eCD92BGrHpInx_PKf2EXfLG7aVMX2pkW/view?usp=sharing](https://drive.google.com/file/d/1eCD92BGrHpInx_PKf2EXfLG7aVMX2pkW/view?usp=sharing)
 
-- ⚡ Fun fact **I strive everyday to live in the moment. And to better myself.**
+- ⚡ **I strive everyday to live in the moment. And to better myself.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
