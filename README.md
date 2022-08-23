@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="30%" src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif">
 
 
-- 🌱 I’m currently learning **Angular, Java EE, Spring Boot**
+- 🌱 I’m currently learning **Core Java, Java EE, Spring Boot, Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/adityapranav014](https://github.com/adityapranav014)
 
