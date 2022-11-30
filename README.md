@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **adityapranav014@gmail.com**
 
- <! -- - 📄 Know about my experiences [https://drive.google.com/file/d/1eCD92BGrHpInx_PKf2EXfLG7aVMX2pkW/view?usp=sharing] (https://drive.google.com/file/d/1eCD92BGrHpInx_PKf2EXfLG7aVMX2pkW/view?usp=sharing)  -->
+ <!--- 📄 Know about my experiences [https://drive.google.com/file/d/1eCD92BGrHpInx_PKf2EXfLG7aVMX2pkW/view?usp=sharing] (https://drive.google.com/file/d/1eCD92BGrHpInx_PKf2EXfLG7aVMX2pkW/view?usp=sharing)  --->
 
 - ⚡ **I strive everyday to live in the moment. And to better myself.**
 
