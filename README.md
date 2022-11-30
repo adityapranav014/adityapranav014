@@ -1,10 +1,8 @@
-<h1 align="center"><img width="8%"src="https://cdn-icons-png.flaticon.com/512/4456/4456155.png"> , I'm Aditya Pranav</h1>
+<h1 align="center"><img width="6%"src="https://cdn-icons-png.flaticon.com/512/4456/4456155.png"> , I'm Aditya Pranav</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityapranav014&label=Profile%20views&color=0e75b6&style=flat" alt="adityapranav014" /> </p>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityapranav014" alt="adityapranav014" /></a> </p>
 
 <img align="right" alt="Coding" width="30%" src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif">
 
