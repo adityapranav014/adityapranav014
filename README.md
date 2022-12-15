@@ -11,7 +11,7 @@
 
 - 🔍 Portfolio website **<a href="https://adityapranav.me/" target="_blank" alt="adityapranav.me" height="30" width="40" />adityapranav.me</a>**
 
-- 👨‍💻 All of my projects are available at [https://github.com/adityapranav014?tab=repositories]
+- 👨‍💻 <a href="https://github.com/adityapranav014?tab=repositories" target="blank" alt="project" height="30" width="40" />Projects</a>
 
 - 📫 How to reach me **adityapranav014@gmail.com**
 
