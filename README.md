@@ -7,16 +7,16 @@
  <!--- <img align="right" alt="Coding" width="30%" src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif"> --->
 
 
-- 🌱 I’m currently learning **Core Java, Java EE, Spring Boot, Angular**
+- 📖 I’m currently learning **Core Java, Java EE, Spring Boot, Angular**
 
 - 🔍 Portfolio website **<a href="https://adityapranav.me/" target="_blank" alt="adityapranav.me" height="30" width="40" />adityapranav.me</a>**
 
 - 👨‍💻 <a href="https://github.com/adityapranav014?tab=repositories" target="blank" alt="project" height="30" width="40" />Projects</a>
 
-- 📫 How to reach me **adityapranav014@gmail.com**
+- 📧 **adityapranav014@gmail.com**
 
- <!--- 📄 Know about my experiences [https://drive.google.com/file/d/1eCD92BGrHpInx_PKf2EXfLG7aVMX2pkW/view?usp=sharing] (https://drive.google.com/file/d/1eCD92BGrHpInx_PKf2EXfLG7aVMX2pkW/view?usp=sharing)  --->
-
+- 📄 <a href="https://drive.google.com/file/d/1U_jvRucCGX8PewwnAV8n2MMQyahN1L4-/view" target="blank" alt="Resume" height="30" width="40" />Resume</a>
+ 
 - ⚡ **I strive everyday to live in the moment. And to better myself.**
 
 <h3 align="left">Connect with me:</h3>
