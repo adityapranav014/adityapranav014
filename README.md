@@ -4,10 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityapranav014&label=Profile%20views&color=0e75b6&style=flat" alt="adityapranav014" /> </p>
 
 
-<img align="right" alt="Coding" width="30%" src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif">
+ <!--- <img align="right" alt="Coding" width="30%" src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif"> --->
 
 
 - 🌱 I’m currently learning **Core Java, Java EE, Spring Boot, Angular**
+
+- 🔍 Portfolio website **<a href="https://adityapranav.me/" target="_blank" alt="adityapranav.me" height="30" width="40" />adityapranav.me</a>**
 
 - 👨‍💻 All of my projects are available at [https://github.com/adityapranav014?tab=repositories]
 
