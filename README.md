@@ -13,7 +13,7 @@
 
 - 👨‍💻 <a href="https://github.com/adityapranav014?tab=repositories" target="blank" alt="project" height="30" width="40" />Projects</a>
 
-- 📧 **adityapranav014@gmail.com**
+- ✉️ **adityapranav014@gmail.com**
 
 - 📄 <a href="https://drive.google.com/file/d/1U_jvRucCGX8PewwnAV8n2MMQyahN1L4-/view" target="blank" alt="Resume" height="30" width="40" />Resume</a>
  
