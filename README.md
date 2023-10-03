@@ -1,15 +1,25 @@
+<hr>
+<p align="center">Welcome to my GitHub profile! Feel free to explore my repositories 🚀 and don't hesitate to reach out if you have any inquiries or collaboration opportunities. I'm passionate about coding, open source, and building cool stuff.</p>
+<hr>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=adityapranav014&label=Profile%20views&color=0e75b6&style=flat" alt="adityapranav014" /> </p>
 <h1 align="center"><img width="7%"src="https://cdn-icons-png.flaticon.com/512/4456/4456155.png"> I'm Aditya Pranav</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityapranav014&label=Profile%20views&color=0e75b6&style=flat" alt="adityapranav014" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=adityapranav014&label=Profile%20views&color=0e75b6&style=flat" alt="adityapranav014" /> </p>
 
 
- <!--- <img align="right" alt="Coding" width="30%" src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif"> --->
+ <img align="right" alt="Coding" width="30%" src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif"> 
 
+- 🎓 **BIT Mesra** '21 Grad
+ 
+- 🔥 Enthusiastic **Frontend Developer**
+ 
+- 📜 **Full Stack Java** Certified 
 
 - 📖 I’m currently learning **Core Java, Java EE, Spring Boot, Angular**
 
-- 🔍 Portfolio website **<a href="https://adityapranav.me/" target="_blank" alt="adityapranav.me" height="30" width="40" />adityapranav.me</a>**
+- 🌐 Portfolio website **<a href="https://adityapranav.me/" target="_blank" alt="adityapranav.me" height="30" width="40" />adityapranav.me</a>**
 
 - 👨‍💻 <a href="https://github.com/adityapranav014?tab=repositories" target="blank" alt="project" height="30" width="40" />Projects</a>
 
@@ -34,3 +44,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityapranav014&show_icons=true&locale=en" alt="adityapranav014" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityapranav014&" alt="adityapranav014" /></p>
+
+<hr>
+<p align="center">Let's code 💻 together and make the tech world even more awesome! 😊 </p>
+<hr>
