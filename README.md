@@ -1,3 +1,4 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=adityapranav014&label=Profile%20views&color=0e75b6&style=flat" alt="adityapranav014" /> </p>
 <hr>
 <p align="center">Welcome to my GitHub profile! Feel free to explore my repositories 🚀 and don't hesitate to reach out if you have any inquiries or collaboration opportunities. I'm passionate about coding, open source, and building cool stuff.</p>
 <hr>
