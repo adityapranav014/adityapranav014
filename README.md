@@ -21,7 +21,7 @@
 - 🔥 Enthusiastic **Frontend Developer**
 - 📜 **Full Stack Java** Certified
 - 📖 Currently learning **Generative AI, Python, Angular**
-- 🌐 Portfolio website: [adityapranav.me](https://adityapranav.me)
+- 🌐 Portfolio website: [aditya-pranav.com](https://aditya-pranav.com)
 - 👨‍💻 My projects on [GitHub](https://github.com/adityapranav014?tab=repositories)
 - ✉️ Email: **adityapranav014@gmail.com**
 - 📄 View my [Resume](https://drive.google.com/file/d/1U_jvRucCGX8PewwnAV8n2MMQyahN1L4-/view)
