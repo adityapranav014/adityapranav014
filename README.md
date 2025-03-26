@@ -9,10 +9,10 @@ Please don't hesitate to reach out with any questions or collaboration opportuni
 
 - Frontend Developer & Mentor
 - 2+ years in Angular
-- 7+ [Certifications](https://drive.google.com/file/d/1U_jvRucCGX8PewwnAV8n2MMQyahN1L4-/view)
+- 7+ [certifications](https://www.linkedin.com/in/adityapranav014/details/certifications/)
 - Portfolio website: [aditya-pranav.com](https://aditya-pranav.com)
 - Email: adityapranav014@gmail.com
-- View my [Resume](https://drive.google.com/file/d/1U_jvRucCGX8PewwnAV8n2MMQyahN1L4-/view)
+- View my [resume](https://drive.google.com/file/d/1U_jvRucCGX8PewwnAV8n2MMQyahN1L4-/view)
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityapranav014&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
