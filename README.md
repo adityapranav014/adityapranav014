@@ -3,7 +3,7 @@
 </h1>
 <p  align="left">Welcome to my GitHub profile! 
    <br>
-  Feel free to explore my repositories
+  Feel free to explore my repositories.
   <br>
 Please don't hesitate to reach out with any questions or collaboration opportunities.</p>
 
