@@ -9,7 +9,7 @@ Please don't hesitate to reach out with any questions or collaboration opportuni
 
 - Frontend Developer & Mentor
 - 2+ years in Angular
-- Full Stack Java Certified
+- 7+ [Certifications](https://drive.google.com/file/d/1U_jvRucCGX8PewwnAV8n2MMQyahN1L4-/view)
 - Portfolio website: [aditya-pranav.com](https://aditya-pranav.com)
 - Email: adityapranav014@gmail.com
 - View my [Resume](https://drive.google.com/file/d/1U_jvRucCGX8PewwnAV8n2MMQyahN1L4-/view)
