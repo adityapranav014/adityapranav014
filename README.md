@@ -7,15 +7,12 @@
   <br>
 Please don't hesitate to reach out with any questions or collaboration opportunities.</p>
 
-- 🎓 **BIT Mesra** '21 Grad
-- 🔥 Enthusiastic **Frontend Developer**
-- 📜 **Full Stack Java** Certified
-- 📖 Currently learning **Generative AI, Python, Angular**
-- 🌐 Portfolio website: [aditya-pranav.com](https://aditya-pranav.com)
-- 👨‍💻 My projects on [GitHub](https://github.com/adityapranav014?tab=repositories)
-- ✉️ Email: **adityapranav014@gmail.com**
-- 📄 View my [Resume](https://drive.google.com/file/d/1U_jvRucCGX8PewwnAV8n2MMQyahN1L4-/view)
-- ⚡ **I strive every day to live in the moment and to better myself.**
+- Frontend Developer & Mentor
+- 2+ years in Angular
+- Full Stack Java Certified
+- Portfolio website: [aditya-pranav.com](https://aditya-pranav.com)
+- Email: adityapranav014@gmail.com
+- View my [Resume](https://drive.google.com/file/d/1U_jvRucCGX8PewwnAV8n2MMQyahN1L4-/view)
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityapranav014&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
