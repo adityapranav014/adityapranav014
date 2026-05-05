@@ -8,7 +8,7 @@
 Please don't hesitate to reach out with any questions or collaboration opportunities.</p>
 
 - Full-Stack Developer & Mentor
-- 2+ years in Angular
+- 3+ years in Angular
 - 7+ [certifications](https://www.linkedin.com/in/adityapranav014/details/certifications/)
 - Portfolio website: [aditya-pranav.com](https://aditya-pranav.com)
 - Email: adityapranav014@gmail.com
