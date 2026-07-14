@@ -42,78 +42,78 @@
 
 ### 💼 Selected Work
 <br>
+
 <details open>
   <summary><b>🛍️ B2C & Consumer Platforms</b></summary>
   <br>
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <img width="1902" height="919" alt="image" src="https://github.com/user-attachments/assets/f61876cd-8055-4b31-ab19-30799e130a26" />
-        <h4><a href="https://workspace-aditya.vercel.app/">🛒 Workspace eCommerce</a></h4>
-        <p>A modern, high-conversion eCommerce storefront featuring cinematic product displays and seamless user journeys.</p>
-      </td>
-      <td width="50%" valign="top">
-        <img width="1916" height="916" alt="image" src="https://github.com/user-attachments/assets/b6a8329b-628b-497e-854a-62232079223a" />
-        <h4><a href="https://ujjwal-video-editor-portfolio.vercel.app/">🎬 Ujjwal Video Portfolio</a></h4>
-        <p>A premium, visually-driven portfolio designed to highlight high-end motion design and video editing work.</p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <img width="1907" height="918" alt="image" src="https://github.com/user-attachments/assets/f46f0762-6933-4fe6-ae1a-48a59973d2ab" />
-        <h4><a href="https://chandigarhadvocate-com.vercel.app/">⚖️ Chandigarh Advocate</a></h4>
-        <p>A professional legal services platform designed for client trust, accessibility, and clear information architecture.</p>
-      </td>
-      <td width="50%" valign="top">
-        <img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/f02164b9-b878-4dee-9877-e23573acb203" />
-        <h4><a href="https://chamanai.in/">✨ Chaman AI</a></h4>
-        <p>A voice-first Vedic astrology application providing deep D1 (Rashi) and D9 (Navamsa) chart interpretations using classical methods.</p>
-      </td>
-    </tr>
-  </table>
+
+  <a href="https://workspace-aditya.vercel.app/">
+    <img width="100%" alt="Workspace eCommerce" src="https://github.com/user-attachments/assets/f61876cd-8055-4b31-ab19-30799e130a26" />
+  </a>
+  <h4><a href="https://workspace-aditya.vercel.app/">🛒 Workspace eCommerce</a></h4>
+  <p>A modern, high-conversion eCommerce storefront featuring cinematic product displays and seamless user journeys.</p>
+  <br>
+
+  <a href="https://ujjwal-video-editor-portfolio.vercel.app/">
+    <img width="100%" alt="Ujjwal Video Portfolio" src="https://github.com/user-attachments/assets/b6a8329b-628b-497e-854a-62232079223a" />
+  </a>
+  <h4><a href="https://ujjwal-video-editor-portfolio.vercel.app/">🎬 Ujjwal Video Portfolio</a></h4>
+  <p>A premium, visually-driven portfolio designed to highlight high-end motion design and video editing work.</p>
+  <br>
+
+  <a href="https://chandigarhadvocate-com.vercel.app/">
+    <img width="100%" alt="Chandigarh Advocate" src="https://github.com/user-attachments/assets/f46f0762-6933-4fe6-ae1a-48a59973d2ab" />
+  </a>
+  <h4><a href="https://chandigarhadvocate-com.vercel.app/">⚖️ Chandigarh Advocate</a></h4>
+  <p>A professional legal services platform designed for client trust, accessibility, and clear information architecture.</p>
+  <br>
+
+  <a href="https://chamanai.in/">
+    <img width="100%" alt="Chaman AI" src="https://github.com/user-attachments/assets/f02164b9-b878-4dee-9877-e23573acb203" />
+  </a>
+  <h4><a href="https://chamanai.in/">✨ Chaman AI</a></h4>
+  <p>A voice-first Vedic astrology application providing deep D1 (Rashi) and D9 (Navamsa) chart interpretations using classical methods.</p>
+
 </details>
-<br><br>
+<br>
+
 <details open>
   <summary><b>🏢 B2B SaaS & Client Architecture</b></summary>
   <br>
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <img width="1907" height="918" alt="image" src="https://github.com/user-attachments/assets/95234869-63d4-4027-8fb8-1cccbc34ff3f" />
-        <h4><a href="https://cloudspire-ai.vercel.app/">☁️ CloudSpire AI</a></h4>
-        <p>A cloud cost management SaaS application delivering enterprise-grade analytics, resource tracking, and high-performance UI.</p>
-      </td>
-      <td width="50%" valign="top">
-        <img width="1896" height="911" alt="image" src="https://github.com/user-attachments/assets/648e076b-07d5-44b9-87ac-9236beaa7308" />
-        <h4><a href="https://dialer-zen-43.vercel.app/">📞 Dialer Zen</a></h4>
-        <p>A multi-tenant lead management CRM SaaS built for a client, integrating Indian cloud telephony APIs for robust sales team tracking.</p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <img width="1917" height="916" alt="image" src="https://github.com/user-attachments/assets/e99baeb2-c37d-46d6-b320-55a87b4ff710" />
-        <h4><a href="https://hospital-aditya.vercel.app/">🏥 Hospital Management</a></h4>
-        <p>A scalable healthcare administration platform streamlining patient data, appointments, and institutional workflows.</p>
-      </td>
-      <td width="50%" valign="top">
-        <!-- Empty space to maintain table symmetry -->
-      </td>
-    </tr>
-  </table>
+
+  <a href="https://cloudspire-ai.vercel.app/">
+    <img width="100%" alt="CloudSpire AI" src="https://github.com/user-attachments/assets/95234869-63d4-4027-8fb8-1cccbc34ff3f" />
+  </a>
+  <h4><a href="https://cloudspire-ai.vercel.app/">☁️ CloudSpire AI</a></h4>
+  <p>A cloud cost management SaaS application delivering enterprise-grade analytics, resource tracking, and high-performance UI.</p>
+  <br>
+
+  <a href="https://dialer-zen-43.vercel.app/">
+    <img width="100%" alt="Dialer Zen" src="https://github.com/user-attachments/assets/648e076b-07d5-44b9-87ac-9236beaa7308" />
+  </a>
+  <h4><a href="https://dialer-zen-43.vercel.app/">📞 Dialer Zen</a></h4>
+  <p>A multi-tenant lead management CRM SaaS built for a client, integrating Indian cloud telephony APIs for robust sales team tracking.</p>
+  <br>
+
+  <a href="https://hospital-aditya.vercel.app/">
+    <img width="100%" alt="Hospital Management" src="https://github.com/user-attachments/assets/e99baeb2-c37d-46d6-b320-55a87b4ff710" />
+  </a>
+  <h4><a href="https://hospital-aditya.vercel.app/">🏥 Hospital Management</a></h4>
+  <p>A scalable healthcare administration platform streamlining patient data, appointments, and institutional workflows.</p>
+
 </details>
-<br><br>
+<br>
+
 <details open>
   <summary><b>📚 Educational Platforms</b></summary>
   <br>
-  <table>
-    <tr>
-      <td width="100%" valign="top">
-        <img width="1901" height="916" alt="image" src="https://github.com/user-attachments/assets/76c73098-ed84-4b5e-b651-ba5cf7487301" />
-        <h4><a href="https://angular-aditya.vercel.app/">🅰️ Learn Angular</a></h4>
-        <p>An interactive educational platform dedicated to mentoring developers and sharing deep technical knowledge on Angular architecture.</p>
-      </td>
-    </tr>
-  </table>
+
+  <a href="https://angular-aditya.vercel.app/">
+    <img width="100%" alt="Learn Angular" src="https://github.com/user-attachments/assets/76c73098-ed84-4b5e-b651-ba5cf7487301" />
+  </a>
+  <h4><a href="https://angular-aditya.vercel.app/">🅰️ Learn Angular</a></h4>
+  <p>An interactive educational platform dedicated to mentoring developers and sharing deep technical knowledge on Angular architecture.</p>
+
 </details>
 
 ---
