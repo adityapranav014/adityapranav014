@@ -41,39 +41,29 @@
 ---
 
 ### 💼 Selected Work
-
-*Click to expand categories and explore the projects.*
-<br><br>
+<br>
 <details open>
   <summary><b>🛍️ B2C & Consumer Platforms</b></summary>
   <br>
   <table>
     <tr>
       <td width="50%" valign="top">
-        <a href="https://workspace-aditya.vercel.app/">
-          <h4>🛒 Workspace eCommerce</h4>
-          <p>A modern, high-conversion eCommerce storefront featuring cinematic product displays and seamless user journeys.</p>
-        </a>
+        <h4><a href="https://workspace-aditya.vercel.app/">🛒 Workspace eCommerce</a></h4>
+        <p>A modern, high-conversion eCommerce storefront featuring cinematic product displays and seamless user journeys.</p>
       </td>
       <td width="50%" valign="top">
-        <a href="https://ujjwal-video-editor-portfolio.vercel.app/">
-          <h4>🎬 Ujjwal Video Portfolio</h4>
-          <p>A premium, visually-driven portfolio designed to highlight high-end motion design and video editing work.</p>
-        </a>
+        <h4><a href="https://ujjwal-video-editor-portfolio.vercel.app/">🎬 Ujjwal Video Portfolio</a></h4>
+        <p>A premium, visually-driven portfolio designed to highlight high-end motion design and video editing work.</p>
       </td>
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <a href="https://chandigarhadvocate-com.vercel.app/">
-          <h4>⚖️ Chandigarh Advocate</h4>
-          <p>A professional legal services platform designed for client trust, accessibility, and clear information architecture.</p>
-        </a>
+        <h4><a href="https://chandigarhadvocate-com.vercel.app/">⚖️ Chandigarh Advocate</a></h4>
+        <p>A professional legal services platform designed for client trust, accessibility, and clear information architecture.</p>
       </td>
       <td width="50%" valign="top">
-        <a href="https://chamanai.in/">
-          <h4>✨ Chaman AI</h4>
-          <p>A voice-first Vedic astrology application providing deep D1 (Rashi) and D9 (Navamsa) chart interpretations using classical methods.</p>
-        </a>
+        <h4><a href="https://chamanai.in/">✨ Chaman AI</a></h4>
+        <p>A voice-first Vedic astrology application providing deep D1 (Rashi) and D9 (Navamsa) chart interpretations using classical methods.</p>
       </td>
     </tr>
   </table>
@@ -85,24 +75,18 @@
   <table>
     <tr>
       <td width="50%" valign="top">
-        <a href="https://cloudspire-ai.vercel.app/">
-          <h4>☁️ CloudSpire AI</h4>
-          <p>A cloud cost management SaaS application delivering enterprise-grade analytics, resource tracking, and high-performance UI.</p>
-        </a>
+        <h4><a href="https://cloudspire-ai.vercel.app/">☁️ CloudSpire AI</a></h4>
+        <p>A cloud cost management SaaS application delivering enterprise-grade analytics, resource tracking, and high-performance UI.</p>
       </td>
       <td width="50%" valign="top">
-        <a href="https://dialer-zen-43.vercel.app/">
-          <h4>📞 Dialer Zen</h4>
-          <p>A multi-tenant lead management CRM SaaS built for a client, integrating Indian cloud telephony APIs for robust sales team tracking.</p>
-        </a>
+        <h4><a href="https://dialer-zen-43.vercel.app/">📞 Dialer Zen</a></h4>
+        <p>A multi-tenant lead management CRM SaaS built for a client, integrating Indian cloud telephony APIs for robust sales team tracking.</p>
       </td>
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <a href="https://hospital-aditya.vercel.app/">
-          <h4>🏥 Hospital Management</h4>
-          <p>A scalable healthcare administration platform streamlining patient data, appointments, and institutional workflows.</p>
-        </a>
+        <h4><a href="https://hospital-aditya.vercel.app/">🏥 Hospital Management</a></h4>
+        <p>A scalable healthcare administration platform streamlining patient data, appointments, and institutional workflows.</p>
       </td>
       <td width="50%" valign="top">
         <!-- Empty space to maintain table symmetry -->
@@ -117,10 +101,8 @@
   <table>
     <tr>
       <td width="100%" valign="top">
-        <a href="https://angular-aditya.vercel.app/">
-          <h4>🅰️ Learn Angular</h4>
-          <p>An interactive educational platform dedicated to mentoring developers and sharing deep technical knowledge on Angular architecture.</p>
-        </a>
+        <h4><a href="https://angular-aditya.vercel.app/">🅰️ Learn Angular</a></h4>
+        <p>An interactive educational platform dedicated to mentoring developers and sharing deep technical knowledge on Angular architecture.</p>
       </td>
     </tr>
   </table>
