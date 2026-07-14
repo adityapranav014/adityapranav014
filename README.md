@@ -75,7 +75,7 @@
   <table>
     <tr>
       <td width="50%" valign="top">
-        <h4><a href="https://chamanai.in/">✨ Chaman AI (Project Sattva)</a></h4>
+        <h4><a href="https://chamanai.in/">✨ Chaman AI</a></h4>
         <p>A voice-first Vedic astrology application providing deep D1 (Rashi) and D9 (Navamsa) chart interpretations using classical methods.</p>
       </td>
       <td width="50%" valign="top">
