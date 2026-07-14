@@ -34,7 +34,7 @@
 <br>
 
 <div align="center">
-  <h3>🛠️ Tech Stack & Arsenal</h3>
+  <h3>🛠️ Tech Stack</h3>
   <img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,js,tailwind,css,html,git,github,vercel,vscode" alt="Tech Stack" />
 </div>
 
