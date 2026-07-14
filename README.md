@@ -1,69 +1,129 @@
+<!-- NAVBAR -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Aditya%20Pranav&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Angular%20Expert%20%E2%80%A2%20Mentor&descSize=18&descAlignY=60&descColor=e0e0ff"/>
-
+  <a href="#-about-me">About</a> &nbsp;&nbsp;✦&nbsp;&nbsp;
+  <a href="#-selected-work">Work</a> &nbsp;&nbsp;✦&nbsp;&nbsp;
+  <a href="#-contact--links">Contact</a>
+  <br><br>
 </div>
 
-<!-- Typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=764BA2&center=true&vCenter=true&multiline=false&repeat=true&width=550&height=45&lines=Hey+there!+I'm+Aditya+👋;Angular+Developer+for+3%2B+Years+🚀;Building+Scalable+Enterprise+Apps+🏗️;Open+for+Collaborations+%26+Mentoring+🤝" />
-</p>
-
-<!-- Quick stats bar -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-764BA2?style=flat-square&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Certifications-7%2B-f093fb?style=flat-square&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Role-Full--Stack%20%26%20Mentor-667eea?style=flat-square&logoColor=white"/>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=adityapranav014&label=Profile%20Views&color=764BA2&style=flat-square"/>
-</p>
-
-<!-- Social links -->
-<p align="center">
-  <a href="https://aditya-pranav.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-aditya--pranav.com-667eea?style=for-the-badge&labelColor=0d1117"/>
+<!-- HERO SECTION -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aditya%20Pranav&fontSize=50&fontAlignY=35&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20Angular%20Expert%20%7C%20AI%20Workflows&descAlignY=55" alt="Hero Banner">
+  
+  <br>
+  
+  <a href="https://github.com/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+Scalable+Enterprise+Apps;Crafting+Awwwards-Level+Cinematic+UIs;Integrating+AI+%26+LLM+Workflows;3%2B+Years+of+Engineering+Excellence" alt="Typing SVG" />
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/adityapranav014/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
-  </a>
-  &nbsp;
-  <a href="mailto:adityapranav014@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/adityapranav014/Assets/raw/f4a245542b11ef0b169553e72c3f217c1ef3b234/Aditya_Pranav.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/📄%20Resume-Download-4285F4?style=for-the-badge&labelColor=0d1117"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/adityapranav014/details/certifications/" target="_blank">
-    <img src="https://img.shields.io/badge/🏅%207%2B%20Certifications-View-f093fb?style=for-the-badge&labelColor=0d1117"/>
-  </a>
-</p>
+</div>
 
 ---
 
-## ⚡ About Me
+### 👨‍💻 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+> **Current Focus:** Crafting enterprise web apps that make an impact, integrating AI automation, and delivering premium, highly scalable digital experiences. 
+> 
+> **Fun Fact:** I debug faster with coffee ☕ and find my clearest perspectives when climbing mountains ⛰️.
 
-```typescript
-const aditya: Developer = {
-  name:          "Aditya Pranav",
-  role:          "Full-Stack Developer & Mentor",
-  experience:    "3+ years in Angular",
-  portfolio:     "https://aditya-pranav.com",
-  email:         "adityapranav014@gmail.com",
-  certifications: 7,
+**Core Passions:**
+<kbd>⚡ Clean, Maintainable Code</kbd> &nbsp;
+<kbd>🏗️ Scalable Architecture</kbd> &nbsp;
+<kbd>🎓 Mentoring Developers</kbd> &nbsp;
+<kbd>🏆 7x Certified</kbd>
 
-  passions: [
-    "⚡ Clean, Maintainable Code",
-    "🏗️  Scalable Architecture",
-    "🎓 Mentoring Developers",
-  ],
+<br>
 
-  currentFocus:  "Enterprise web apps that make an impact",
-  funFact:       "I debug faster with coffee ☕",
-};
+<div align="center">
+  <h3>🛠️ Tech Stack & Arsenal</h3>
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,js,tailwind,css,html,git,github,vercel,vscode" alt="Tech Stack" />
+</div>
+
+---
+
+### 💼 Selected Work
+
+*Click to expand categories and explore the projects.*
+
+<details open>
+  <summary><b>🏢 B2B SaaS & Client Architecture</b></summary>
+  <br>
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h4><a href="https://cloudspire-ai.vercel.app/">☁️ CloudSpire AI</a></h4>
+        <p>A cloud cost management SaaS application delivering enterprise-grade analytics, resource tracking, and high-performance UI.</p>
+      </td>
+      <td width="50%" valign="top">
+        <h4><a href="https://dialer-zen-43.vercel.app/">📞 Dialer Zen</a></h4>
+        <p>A multi-tenant lead management CRM SaaS built for a client, integrating Indian cloud telephony APIs for robust sales team tracking.</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h4><a href="https://hospital-aditya.vercel.app/">🏥 Hospital Management</a></h4>
+        <p>A scalable healthcare administration platform streamlining patient data, appointments, and institutional workflows.</p>
+      </td>
+      <td width="50%" valign="top">
+      </td>
+    </tr>
+  </table>
+</details>
+
+<details>
+  <summary><b>🛍️ B2C & Consumer Platforms</b></summary>
+  <br>
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h4><a href="https://chamanai.in/">✨ Chaman AI (Project Sattva)</a></h4>
+        <p>A voice-first Vedic astrology application providing deep D1 (Rashi) and D9 (Navamsa) chart interpretations using classical methods.</p>
+      </td>
+      <td width="50%" valign="top">
+        <h4><a href="https://workspace-aditya.vercel.app/">🛒 Workspace eCommerce</a></h4>
+        <p>A modern, high-conversion eCommerce storefront featuring cinematic product displays and seamless user journeys.</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h4><a href="https://ujjwal-video-editor-portfolio.vercel.app/">🎬 Ujjwal Video Portfolio</a></h4>
+        <p>A premium, visually-driven portfolio designed to highlight high-end motion design and video editing work.</p>
+      </td>
+      <td width="50%" valign="top">
+        <h4><a href="https://chandigarhadvocate-com.vercel.app/">⚖️ Chandigarh Advocate</a></h4>
+        <p>A professional legal services platform designed for client trust, accessibility, and clear information architecture.</p>
+      </td>
+    </tr>
+  </table>
+</details>
+
+<details>
+  <summary><b>📚 Educational Platforms</b></summary>
+  <br>
+  <table>
+    <tr>
+      <td width="100%" valign="top">
+        <h4><a href="https://angular-aditya.vercel.app/">🅰️ Learn Angular</a></h4>
+        <p>An interactive educational platform dedicated to mentoring developers and sharing deep technical knowledge on Angular architecture.</p>
+      </td>
+    </tr>
+  </table>
+</details>
+
+---
+
+### 📬 Contact & Links
+
+<div align="center">
+  <p>Ready to collaborate on something elite? Let's connect.</p>
+  
+  <a href="https://vercel.com/aditya-pranavs-projects?repo=https%3A%2F%2Fgithub.com%2Fadityapranav014%2FPortfolio"><img src="https://img.shields.io/badge/Official_Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/adityapranav014/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:adityapranav014@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://drive.google.com/file/d/1baU8I56_63XGDAa1e0xq4fgzqrIytkoe/view?usp=drive_link"><img src="https://img.shields.io/badge/Download_Resume-2563EB?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"></a>
+</div>
+
+<!-- FOOTER -->
+<br>
+<div align="center">
+  <sub>Engineered with precision and pixel-perfect design principles. © 2026 Aditya Pranav.</sub>
+</div>
