@@ -116,7 +116,7 @@
 <div align="center">
   <p>Ready to collaborate on something elite? Let's connect.</p>
   
-  <a href="https://vercel.com/aditya-pranavs-projects?repo=https%3A%2F%2Fgithub.com%2Fadityapranav014%2FPortfolio"><img src="https://img.shields.io/badge/Official_Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.aditya-pranav.com/"><img src="https://img.shields.io/badge/Official_Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/adityapranav014/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:adityapranav014@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://drive.google.com/file/d/1baU8I56_63XGDAa1e0xq4fgzqrIytkoe/view?usp=drive_link"><img src="https://img.shields.io/badge/Download_Resume-2563EB?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"></a>
