@@ -1,6 +1,5 @@
 <!-- NAVBAR -->
 <div align="center">
-  <a href="#-about-me">About</a> &nbsp;&nbsp;✦&nbsp;&nbsp;
   <a href="#-selected-work">Work</a> &nbsp;&nbsp;✦&nbsp;&nbsp;
   <a href="#-contact--links">Contact</a>
   <br><br>
