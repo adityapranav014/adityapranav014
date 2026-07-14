@@ -1,10 +1,10 @@
 <!-- NAVBAR -->
-<div align="center">
+<!-- <div align="center">
   ✦&nbsp;&nbsp;
   <a href="#-selected-work">Work</a> &nbsp;&nbsp;✦&nbsp;&nbsp;
   <a href="#-contact--links">Contact</a>
   <br><br>
-</div>
+</div> -->
 
 <!-- HERO SECTION -->
 <div align="center">
